@@ -2,7 +2,7 @@
 
 Projeto realizado dia 08/05/2024, criei este projeto no intuito de desenvolver minha lógica e aprimorar meus conhecimentos na Linguagem Java, buscando conhecimento em novos métodos.
 
-## Como baixar o projeto na sua máquina:
+## 🔓 Como baixar o projeto na sua máquina:
 
 Selecione uma pasta no seu computador e abra o Git Bash,
 após isso insira o comando abaixo:
